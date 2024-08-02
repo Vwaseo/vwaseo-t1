@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<meta name="title" content="Privacy Policy">
+<meta name="DC.title" lang="en" content="Privacy Policy">
+<meta name="description" content="Boost your online presence with our digital marketing, web design and development, and SEO services. Get found and grow your business today.Transform your website with expert web design and development, digital marketing, and SEO services. Drive traffic and achieve online success.Enhance your brand's visibility with top-notch digital marketing, web design and development, and SEO services. Start attracting more customers now.Achieve your business goals with our comprehensive digital marketing, web design and development, and SEO services. Optimize your online strategy today.Maximize your online impact with our digital marketing, web design and development, and SEO services. Improve your rankings and attract more clients.">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://vwaseo.netlify.app/privacy-policy.html">
+<link rel="shortcut icon"  href="img/seo-vancouver-wa-240x105-logo.jpg"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+.navbar a{
+font-size: 17.8px!important;
+font-weight: bold;
+}
+a{
+text-decoration: none!important;
+}
+ul{
+list-style: circle;
+}
+.nav-link{
+color: #000000!important;
+
+}
+.v050a04479862f78e9becb28bebfcbf01 a{
+font-size:16px;
+}
+.v050a04479862f78e9becb28bebfcbf01 p,.v050a04479862f78e9becb28bebfcbf01 span,.v050a04479862f78e9becb28bebfcbf01 label{
+font-size:16px!important;
+}
+.nav-item{
+padding-left:8.1px;
+padding-right:8px;
+padding-top:5.3px;
+padding-bottom:4.9px;
+}
+footer{
+background:#070707;
+color:#ffffff;
+}
+a:hover{
+background:#ffc658;
+}
+.xf715c82a4f991db1edf340e97e437414:hover{
+box-shadow: 0 50.3px 50.3px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.ada87ff005b1cdb9786cd4d752b1c7d38{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+footer *{
+font-size:16px !important;
+}
+.yc55f805a538977214ea23a26a55ab92c p,.yc55f805a538977214ea23a26a55ab92c a,.yc55f805a538977214ea23a26a55ab92c span,.yc55f805a538977214ea23a26a55ab92c label{
+font-size:16px!important;
+}
+.yc55f805a538977214ea23a26a55ab92c a,.v050a04479862f78e9becb28bebfcbf01 a{
+color:#080808!important;
+text-decoration: underline !important;
+}
+.btn-md{
+padding: 14.9px 30px;
+border-radius: 0;
+}
+html{
+scroll-behavior: smooth;
+}
+footer a{
+color:#ffffff;
+text-decoration: underline;
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+</style>
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Organization",
+"@id": "https://vancouverwaseo.org/#organization",
+"subOrganization": {
+"@id": "https://vancouverwaseo.org/#localbusiness1"
+},
+"name": "Vancouver WA SEO",
+"legalName": "Vancouver WA SEO LLC",
+"url": "https://vancouverwaseo.org/",
+"logo": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+"description": "Vancouver WA SEO is a full service Internet Marketing agency. We help your business get more online visibility on the web, engaging with your target audience so they become customers. We make your phone ring, so your business prospers. We work with you to plan your business marketing strategies and make certain we implement an online marketing campaign that delivers optimum ROI. We consider you, our client, to be our partner - we take your success seriously and personally. We implement only the best practices for SEO, Google My Business services, Online Review Management, Local Search / Google 3 Pack + Press Releases to build your brand, get people interested in your business, and most of all to do business with you right away.",
+"disambiguatingDescription": "Vancouver WA SEO is a full service Internet Marketing agency. We help your business get more online visibility on the web, engaging with your target audience so they become customers. We make your phone ring, so your business prospers. We work with you to plan your business marketing strategies and make certain we implement an online marketing campaign that delivers optimum ROI. We consider you, our client, to be our partner - we take your success seriously and personally. We implement only the best practices for SEO, Google My Business services, Online Review Management, Local Search / Google 3 Pack + Press Releases to build your brand, get people interested in your business, and most of all to do business with you right away.",
+"foundingLocation": [{
+"@type": "Place",
+"geo": { 
+"@type": "GeoCoordinates",
+"latitude": "45.606499",
+"longitude": "-122.5209078"
+}}],
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "14718 SE Graham Rd",
+"addressLocality": "Vancouver",
+"addressRegion": "Washington",
+"postalCode": "98683",
+"addressCountry": "US"
+},
+"contactPoint": {
+"@type": "ContactPoint",
+"contactType": "customer support",
+"telephone": "(503) 828-6268",
+"email": "admin@vancouverwaseo.org"
+},
+"sameAs": [
+"https://www.facebook.com/VancouverWaSEO",
+"https://about.me/vancouverwaseo",
+"https://www.instapaper.com/p/vancouverwaseo",
+"https://disqus.com/by/vancouverwaseo",
+"https://www.youtube.com/user/vancouverwaseo/about",
+"https://www.youtube.com/watch?v=KciRV48PGHQ",
+"https://vancouvrwaseo.blogspot.com",
+"https://vancouverwaseo46.wordpress.com",
+"https://en.gravatar.com/vancouvrwaseo",
+"https://vancouvrwaseo.tumblr.com",
+"https://twitter.com/vancouvrwaseo",
+"https://www.diigo.com/profile/vancouvrwaseo",
+"https://www.diigo.com/user/vancouvrwaseo",
+"https://www.evernote.com/pub/vancouverswaseo/vancouverwaseo",
+"https://getpocket.com/@vancouverwaseo",
+"https://drive.google.com/drive/folders/16TDWShBjqikkSX8pQeS1GSrhGynpLwrs?usp=sharing",
+"https://www.facebook.com/Vancouverwaseo",
+"https://www.linkedin.com/in/scottwalkerpdx",
+"https://vancouvrwaseo.tumblr.com/",
+"https://www.pinterest.com/vancouverwaseo/",
+"https://twitter.com/vancouvrwaseo",
+"https://www.youtube.com/c/VancouverwaseoOrg/videos"
+]
+}
+</script>
+
+<script type="application/ld+json">
+{
+"@id": "https://vancouverwaseo.org/#localbusiness1",
+"@context": "http://www.schema.org",
+"@type": "LocalBusiness",
+"parentOrganization": {
+"@id": "https://vancouverwaseo.org/#organization"
+},
+"name": "Vancouver WA SEO",
+"email": "admin@vancouverwaseo.org",
+"priceRange": "1000usd -10000usd",
+"logo": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+"sameAs": [
+"https://www.facebook.com/VancouverWaSEO",
+"https://about.me/vancouverwaseo",
+"https://www.instapaper.com/p/vancouverwaseo",
+"https://disqus.com/by/vancouverwaseo",
+"https://www.youtube.com/user/vancouverwaseo/about",
+"https://www.youtube.com/watch?v=KciRV48PGHQ",
+"https://vancouvrwaseo.blogspot.com",
+"https://vancouverwaseo46.wordpress.com",
+"https://en.gravatar.com/vancouvrwaseo",
+"https://vancouvrwaseo.tumblr.com",
+"https://twitter.com/vancouvrwaseo",
+"https://www.diigo.com/profile/vancouvrwaseo",
+"https://www.diigo.com/user/vancouvrwaseo",
+"https://www.evernote.com/pub/vancouverswaseo/vancouverwaseo",
+"https://getpocket.com/@vancouverwaseo",
+"https://drive.google.com/drive/folders/16TDWShBjqikkSX8pQeS1GSrhGynpLwrs?usp=sharing",
+"https://www.facebook.com/Vancouverwaseo",
+"https://www.linkedin.com/in/scottwalkerpdx",
+"https://vancouvrwaseo.tumblr.com/",
+"https://www.pinterest.com/vancouverwaseo/",
+"https://twitter.com/vancouvrwaseo",
+"https://www.youtube.com/c/VancouverwaseoOrg/videos"
+],
+"url": "https://vancouverwaseo.org/",
+"description": "Vancouver WA SEO is a full service Internet Marketing agency. We help your business get more online visibility on the web, engaging with your target audience so they become customers. We make your phone ring, so your business prospers. We work with you to plan your business marketing strategies and make certain we implement an online marketing campaign that delivers optimum ROI. We consider you, our client, to be our partner - we take your success seriously and personally. We implement only the best practices for SEO, Google My Business services, Online Review Management, Local Search / Google 3 Pack + Press Releases to build your brand, get people interested in your business, and most of all to do business with you right away.",
+"telephone": "(503) 828-6268",
+"geo": {
+"@type": "GeoCoordinates",
+"latitude": "45.606499",
+"longitude": "-122.5209078"
+},
+"address": {
+"@type": "PostalAddress",
+"addressCountry": "US",
+"streetAddress": "14718 SE Graham Rd",
+"addressLocality": "Vancouver",
+"addressRegion": "Washington",
+"postalCode": "98683"
+},
+"openingHours": ["Mo-Tu-We-Th-Fr 08:00-17:00"],
+"contactPoint": {
+"@type": "ContactPoint",
+"telephone": "(503) 828-6268",
+"contactType": "inquiry"
+},
+"hasMap": "https://www.google.com/search?kgmid=/11b5ypn68_",
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"reviewCount": "12"
+}
+}
+</script></head>
+<body>
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="https://vwaseo.netlify.app/index.html"  ><img alt="img/seo-vancouver-wa-240x105-logo.jpg" src="img/seo-vancouver-wa-240x105-logo.jpg"  width="150px" ></a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav d-flex align-items-center ml-auto"><li class="nav-item">
+<a class="nav-link u7e581461ec48fce922039fe23558492f" href="https://vwaseo.netlify.app/index.html" >SEO, Website Design, Internet Marketing - Vancouver WA SEO</a>
+</li>
+<li class="nav-item">
+<a class="nav-link u7e581461ec48fce922039fe23558492f" href="https://vwaseo.netlify.app/local-seo-services-vancouver-wa-seo.html" >Local SEO Services - Vancouver WA SEO</a>
+</li>
+<li class="nav-item">
+<a class="nav-link u7e581461ec48fce922039fe23558492f" href="https://vwaseo.netlify.app/vancouver-wa-seo-best-seo-rank-experts.html" >Vancouver WA SEO - Best SEO Rank Experts</a>
+</li>
+<li class="nav-item">
+<a class="nav-link u7e581461ec48fce922039fe23558492f" href="https://vwaseo.netlify.app/maximize-your-reach-with-our-internet-marketing-services-vancouver-wa-seo.html" >Maximize Your Reach with Our Internet Marketing Services - Vancouver WA SEO</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link u7e581461ec48fce922039fe23558492f dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://vwaseo.netlify.app/boost-engagement-with-our-social-media-marketing-vancouver-wa-seo.html"  >Boost Engagement with Our Social Media Marketing - Vancouver WA SEO</a></div>
+</li>
+<li class="nav-item"><a class="u7e581461ec48fce922039fe23558492f nav-link" rel=nofollow href="https://vwaseo.netlify.app/about-us.html">About Us</a>
+</li></ul>
+</div>
+</nav>
+<section class="container" style="min-height: 80vh;">
+<h1>Privacy Policy for Vancouver WA SEO</h1>
+<p>At Vancouver WA SEO one of our main priorities is the privacy of our visitors.
+ This Privacy Policy document contains types of information that is collected and recorded by Vancouver WA SEO and how we use it. You can check out our main website here: </p>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Vancouver WA SEO. This policy is not applicable to any information collected offline or via channels other than this website. </p>
+<h2>Consent</h2>
+<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+<h2>Information we collect</h2>
+<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, Vancouver WA SEO, address, email address, and telephone number.</p>
+<h2>How we use your information</h2>
+<p>We use the information we collect in various ways, including to:</p>
+<ul>
+<li>Provide, operate, and maintain our website</li>
+<li>Improve, personalize, and expand our website</li>
+<li>Understand and analyze how you use our website</li>
+<li>Develop new products, services, features, and functionality</li>
+<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
+<li>Send you emails</li>
+<li>Find and prevent fraud</li>
+</ul>
+<h2>Log Files</h2>
+<p>Vancouver WA SEO follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<h2>Advertising Partners Privacy Policies</h2>
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Vancouver WA SEO.</p>
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Vancouver WA SEO, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+<p>Note that Vancouver WA SEO has no access to or control over these cookies that are used by third-party advertisers.</p>
+<h2>Third Party Privacy Policies</h2>
+<p>Vancouver WA SEO's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+<h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+<p>Under the CCPA, among other rights, California consumers have the right to:</p>
+<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
+<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
+<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>GDPR Data Protection Rights</h2>
+<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
+<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
+<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
+<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
+<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
+<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
+<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>Children's Information</h2>
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+<p>Vancouver WA SEO does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<h2>Publisher</h2>
+<p>
+This website is owned and published by:
+Vancouver WA SEO</br>
+(503) 828-6268</br>
+14718 SE Graham Rd</br>
+Vancouver</br>
+WA</br>
+</br>
+</br>
+</p>
+</section>
+<footer>
+<div class="pt-5 py-4 container" >
+<div class="row"><div class="col-lg-3">
+<p>Vancouver WA SEO</p>
+<p>Phone : (503) 828-6268</p>
+<p>City : Vancouver</p>
+<p>State : WA</p>
+<p>Zip : 98683</p>
+<p>Address : 14718 SE Graham Rd</p>
+</div><div class="col-lg-3"><p><a class="u7e581461ec48fce922039fe23558492f" href="https://vwaseo.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="u7e581461ec48fce922039fe23558492f" href="https://vwaseo.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="u7e581461ec48fce922039fe23558492f" href="https://vwaseo.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+</p>
+</div><div class="col-lg-3">
+<div>
+<p>Follow us</p>
+<a href="https://www.facebook.com/Vancouverwaseo" class="t22f754281c5cd42b4df5dc09051f59cf facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.youtube.com/c/VancouverwaseoOrg" class="youtube t22f754281c5cd42b4df5dc09051f59cf" rel="nofollow"><i class="fa fa-youtube"></i></a>
+<a href="https://x.com/vancouvrwaseo" class="t22f754281c5cd42b4df5dc09051f59cf twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
+</div>
+</div></div>
+</div>
+</footer> 
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+var dropdowns = document.querySelectorAll('.dropdown-hover');
+function showDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'block';
+}
+function hideDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'none';
+}
+function handleClick(event) {
+var target = event.target;
+window.location.href = target.getAttribute('href');
+}
+dropdowns.forEach(function(dropdown) {
+dropdown.addEventListener('mouseenter', showDropdown);
+dropdown.addEventListener('mouseleave', hideDropdown);
+var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
+dropdownMenu.addEventListener('click', handleClick);
+});
+});
+</script> 
+</body>
+</html>
